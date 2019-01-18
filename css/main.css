@@ -48,7 +48,7 @@ a {
   background-color: #555;
   color: #fff;
   border-radius: 4px;
-  padding: 0.5em 0.75em;
+  padding: .5em .75em;
 }
 
 a:hover {
@@ -78,22 +78,6 @@ a:hover {
   html {
     font-size: 120%;
     line-height: 1.5;
-  }
-
-  header {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    text-align: left;
-  }
-
-  h1, nav {
-    display: inline-block;
-    vertical-align: middle;
-  }
-
-  h1 {
-    margin-bottom: 0;
-    margin-right: 1.5rem;
   }
 
 }
